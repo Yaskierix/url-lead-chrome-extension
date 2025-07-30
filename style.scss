@@ -21,5 +21,9 @@ button{
     font-size:16px;
     text-align: center;
     background-color:#5f9341;
-    border:none;
+    border:1px solid #5f9341;
+    &:nth-of-type(2){
+        background:#fff;
+        color:#5f9341;
+    }
 }
