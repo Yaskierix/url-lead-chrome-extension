@@ -1,6 +1,6 @@
 {
   "name": "lead-chrome-extension",
-  "description": "https://scrimba.com/learn-javascript-c0v/~018/s0dsck3u31/head",
+  "description": "Lead or URL chrome extension that can copy current window URL to the list and save it in local storage",
   "scripts": {
     "start": "vite",
     "dev": "vite",
